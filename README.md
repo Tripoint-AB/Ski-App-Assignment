@@ -25,7 +25,7 @@ To solve the task, we would like you to use either (React, Angular or Vue,js). Y
 <ul>
 <li>Body length</li>
 <li>Age</li>
-<li>Klassik or Freestyle</li>
+<li>Classic or Freestyle</li>
 </ul>
 </ul>
 
