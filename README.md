@@ -14,7 +14,7 @@ As part of our recruitment process, we have a step where you can perform a progr
 When you have completed the task, please provide us with a link to (GitHub, Dropbox, Google Drive) or add a pull request to this repository. No later than a week before after you have received the assignment.
 
 ## Tech: 
-To solve the task, we would like you to use either (React, Angular or Vue,js). Your task is to design a client web application (you have the option to add a server application too) that helps the user to choose the right length of cross-country skis. Choose to put emphasis on the part you prefer to work with, if you prefer client side development, you put an extra focus there or vice versa.
+To solve the task, we would like you to use either (React, Angular or Vue.js). Your task is to design a client web application (you have the option to add a server application too) that helps the user to choose the right length of cross-country skis. Choose to put emphasis on the part you prefer to work with, if you prefer client side development, you put an extra focus there or vice versa.
 
 ## Requirements specification: 
 
